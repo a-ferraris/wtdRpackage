@@ -16,7 +16,7 @@ to define patients’ duration of exposure to medications based on filled prescr
 distribution (WTD) is a data-driven approach that uses the empiric distribution of times to the first 
 prescription filled by individuals during a specific time window (e.g., a calendar year) relative to a 
 given start date to estimate the drug exposure duration (typically, the first day of the calendar year). 
-Typically, the 80th percentile of the WTD distribution is used to define the duration of exposure. 
+Usually, the 80th percentile of the WTD distribution is used to define the duration of exposure. 
 
 ## Background
 Previous studies using Scandinavian databases have shown the accuracy of the WTD in estimating the duration of
