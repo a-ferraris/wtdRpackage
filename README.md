@@ -42,6 +42,6 @@ the authors (AF and FN), present the wtdR package to:
 ## Timeline
 1. **Nov 25–29:** Define project scope and objectives 
 2. **Nov 28-Dec 8):** Develop WTD Functions 
-3. **Dec 6–8):** Perform comprehensive testing of both functions with datasets, ensuring accuracy and performance.  
+3. **Dec 6–8):** Perform comprehensive testing of both functions with datasets, ensuring accuracy and performance
 5. **Dec 9–10:** Complete documentation and presentation preparation, including usage examples
 6. **Dec 16–Jan:** Finalize the package and prepare a user manual based on peer reviews and feedback, and plan for deployment 
