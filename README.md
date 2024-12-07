@@ -44,4 +44,6 @@ the authors (AF and FN), present the wtdR package to:
 2. **Nov 28-Dec 8):** Develop WTD Functions 
 3. **Dec 6–8):** Perform comprehensive testing of both functions with datasets, ensuring accuracy and performance
 5. **Dec 9–10:** Complete documentation and presentation preparation, including usage examples
-6. **Dec 16–Jan:** Finalize the package and prepare a user manual based on peer reviews and feedback, and plan for deployment 
+6. **Dec 16–Jan:** Finalize the package and prepare a user manual based on peer reviews and feedback, and plan for deployment
+
+Google Drive link for documentation and PowerPoint template, https://drive.google.com/drive/folders/1_VgsqhRFbCp1KEssje1oquNExiQqEASN?usp=sharing
