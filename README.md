@@ -36,10 +36,10 @@ the authors (AF and FN), present the wtdR package to:
 (iii) Produce elegant eCDF plots and histograms based on (i) and (ii)
 
 ### Landmark WTD Studies for Reference
-Hallas J, Gaist D, Bjerrum L. The Waiting Time Distribution as a Graphical Approach to Epidemiologic Measures of Drug Utilization. Epidemiology. 1997;8(6). 
-Pottegård A, Hallas J. Assigning exposure duration to single prescriptions by use of the waiting time distribution. Pharmacoepidemiol Drug Saf. 2013 Aug;22(8):803–9. 
-Støvring H, Pottegård A, Hallas J. Determining prescription durations based on the parametric waiting time distribution: Determining Prescription Durations. Pharmacoepidemiol Drug Saf. 2016 Dec;25(12):1451–9. 
-Bødkergaard K, Selmer RM, Hallas J, Kjerpeseth LJ, Pottegård A, Skovlund E, et al. Using the waiting time distribution with random index dates to estimate prescription durations in the presence of seasonal stockpiling. Pharmacoepidemiol Drug Saf. 2020 Sep;29(9):1072–8.
+1. Hallas J, Gaist D, Bjerrum L. The Waiting Time Distribution as a Graphical Approach to Epidemiologic Measures of Drug Utilization. Epidemiology. 1997;8(6). 
+2. Pottegård A, Hallas J. Assigning exposure duration to single prescriptions by use of the waiting time distribution. Pharmacoepidemiol Drug Saf. 2013 Aug;22(8):803–9. 
+3. Støvring H, Pottegård A, Hallas J. Determining prescription durations based on the parametric waiting time distribution: Determining Prescription Durations. Pharmacoepidemiol Drug Saf. 2016 Dec;25(12):1451–9. 
+4. Bødkergaard K, Selmer RM, Hallas J, Kjerpeseth LJ, Pottegård A, Skovlund E, et al. Using the waiting time distribution with random index dates to estimate prescription durations in the presence of seasonal stockpiling. Pharmacoepidemiol Drug Saf. 2020 Sep;29(9):1072–8.
 
 
 ## License
