@@ -1,4 +1,4 @@
-# Weighted Time Distribution (WTD) Package Project
+# Waiting Time Distribution (WTD) Package Project
 This project was developed to meet the final project requirements for the HMS 520 course, Fall 2024. 
 
 ## Overall Goal
