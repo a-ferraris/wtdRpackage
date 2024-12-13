@@ -1,3 +1,6 @@
+# the create_wtd(), summarise_wtd(), ecdf_wtd(), and hist_wtd() functions are presented. For full descriptions of how to use this package, 
+# See documentation 
+# code starts. 
 
 create_wtd <- function(id, dates, drug, year_wtd, 
                        prevalent = 0, 
