@@ -5,7 +5,7 @@ This project was developed to meet the final project requirements for the HMS 52
 Estimate prescription duration using single prescriptions when days of supply are not available by means
 of the non-parametric Waiting Time Distribution: the wtdR package. 
 
-## Introduction
+### Introduction
 Modeling the duration of drug exposure is a paramount feature of pharmacoepidemiologic research studies. 
 When the number of days of supply is not available or reliable, researchers often rely on arbitrary rules 
 to define patients’ duration of exposure to medications based on filled prescriptions. The waiting time 
@@ -14,7 +14,7 @@ prescription filled by individuals during a specific time window (e.g., a calend
 given start date to estimate the drug exposure duration (typically, the first day of the calendar year). 
 Usually, the 80th percentile of the WTD distribution is used to define the duration of exposure. 
 
-## Background
+### Background
 Previous studies using Scandinavian databases have shown the accuracy of the WTD in estimating the duration of
 drug exposure. In such studies, WTD appears more precise in estimating exposure duration for chronic treatments 
 requiring refills over relatively constant periods, such as warfarin. However, the same studies show that WTD
@@ -28,19 +28,24 @@ indexed dates to estimate the duration of drug supply with enhanced results, esp
 Finally, the identification of prevalent users defined as those presenting prescriptions in the year preceding 
 the WTD estimation has been suggested to increase the precision of the WTD estimation.
 
-## Project Scope
+### Project Scope
 Given that as of December 01, 2024, no R software package has been developed to implement such strategies, we, 
 the authors (AF and FN), present the wtdR package to:
 (i) Estimate conventional WTD and reverse WTD, with customizable features
 (ii) Estimate WTD with random individual-patient level index dates, with customizable features
 (iii) Produce elegant eCDF plots and histograms based on (i) and (ii)
 
-License
+### Landmark WTD Studies for Reference
+Hallas J, Gaist D, Bjerrum L. The Waiting Time Distribution as a Graphical Approach to Epidemiologic Measures of Drug Utilization. Epidemiology. 1997;8(6). 
+Pottegård A, Hallas J. Assigning exposure duration to single prescriptions by use of the waiting time distribution. Pharmacoepidemiol Drug Saf. 2013 Aug;22(8):803–9. 
+Støvring H, Pottegård A, Hallas J. Determining prescription durations based on the parametric waiting time distribution: Determining Prescription Durations. Pharmacoepidemiol Drug Saf. 2016 Dec;25(12):1451–9. 
+Bødkergaard K, Selmer RM, Hallas J, Kjerpeseth LJ, Pottegård A, Skovlund E, et al. Using the waiting time distribution with random index dates to estimate prescription durations in the presence of seasonal stockpiling. Pharmacoepidemiol Drug Saf. 2020 Sep;29(9):1072–8.
+
+
+## License
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.
 
 !CC BY-NC-ND 4.0
-
-## License 
 Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
