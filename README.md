@@ -1,5 +1,4 @@
 # Waiting Time Distribution (WTD) Package Project
-This project was developed to meet the final project requirements for the HMS 520 course, Fall 2024. 
 
 ## Overall Goal
 Estimate prescription duration using single prescriptions when days of supply are not available by means
